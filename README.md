@@ -30,3 +30,4 @@ const developer.DylanJames = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+![](https://github-readme-stats.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
