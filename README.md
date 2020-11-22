@@ -9,7 +9,7 @@
 ### A little more about me...  
 
 ```javascript
-const anmol = {
+const developer.DylanJames = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "Express", "MongoDB"],
     askMeAbout: ["web dev", "tech", "bot dev", "memes"],
