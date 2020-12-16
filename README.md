@@ -8,6 +8,7 @@
 
 ### A little more about me...  
 ![](https://github-readme-stats.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?theme=dark&count_private=true&username=team-tritan&show_icons=true)
 
 
 ```javascript
