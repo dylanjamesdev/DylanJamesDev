@@ -7,11 +7,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
 
 ### A little more about me...  
-![](https://github-readme-stats.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanjamesdev&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanjamesdev&langs_count=8&theme=dark)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=dark&custom_title=Weekly+Stats)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=dark&custom_title=Weekly+Stats)
 
 ```javascript
 const developer.DylanJames = {
