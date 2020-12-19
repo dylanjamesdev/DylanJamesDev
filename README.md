@@ -9,7 +9,7 @@
 ### A little more about me...  
 ![](https://github-readme-stats.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanjamesdev&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanjamesdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ```javascript
 const developer.DylanJames = {
     pronouns: "He" | "Him",
