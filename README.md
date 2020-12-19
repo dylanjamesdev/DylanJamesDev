@@ -11,7 +11,6 @@
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=dark&custom_title=Weekly+Stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=team-tritan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ```javascript
 const developer.DylanJames = {
     pronouns: "He" | "Him",
