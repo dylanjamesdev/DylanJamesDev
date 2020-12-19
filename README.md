@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanjamesdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b&theme=dark&title=Weekly Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b&theme=dark&title=Weekly+Stats)](https://github.com/anuraghazra/github-readme-stats)
 ```javascript
 const developer.DylanJames = {
     pronouns: "He" | "Him",
