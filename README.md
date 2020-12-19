@@ -9,8 +9,6 @@
 ### A little more about me...  
 ![](https://github-readme-stats.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanjamesdev)]
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev)]
-
 
 ```javascript
 const developer.DylanJames = {
