@@ -1,5 +1,5 @@
 <h2>I'm Dylan James</h2>
-<p><em>Lead Developer at <a href="http://www.github.com/team-tritan">Team Tritan</a>. Check out my work over there!
+<p><em>Lead Developer at <a href="http://www.github.com/team-tritan">Team Tritan</a>, management of <a href='https://github.com/botrixlist'>Botrix</a>. Check out my work over there!
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
