@@ -1,5 +1,5 @@
 <h2>I'm Dylan James</h2>
-<p><em>Lead Developer at <a href="http://www.gitlab.com/team-tritan">Team Tritan</a>, developer at <a href='https://github.com/botrixlist'>Botrix</a>. Check out my work over there!
+<p><em>Owner of <a href="https://git.tritan.gg/team-tritan">Team Tritan</a>, developer of <a href='https://github.com/botrixlist'>Botrix</a>, and designer at <a href='https://windy.pink'>Windy Pink</a>. Check out my work!
 </em></p>
 
 <p> I've moved most of my projects to <a href='https://gitlab.com/team-tritan'>Gitlab!</a>
