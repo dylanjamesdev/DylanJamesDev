@@ -30,6 +30,7 @@ const developer[DylanJames] = {
 ![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tritanbot.xyz/)](https://tritanbot.xyz/)
 ![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
+[Coding](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/359498825150365699)
 
 ### A little more about me...  
 ![Github Stats](https://github-stats-three.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
