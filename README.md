@@ -16,21 +16,21 @@
 ![Top Langs](https://github-stats-three.vercel.app/api/top-langs/?username=dylanjamesdev&theme=dark)
 
 ```javascript
-const developer.DylanJames = {
+const developer[DylanJames] = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "Express", "MongoDB"],
     askMeAbout: ["web dev", "tech", "bot dev", "memes"],
     technologies: {
         discordBot: ["Tritan Bot"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Ejs", "Vue", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "Discord.js"]
+            js: ["Node", "Express", "Discord.js"]
         },
         devOps: ["Docker🐳", "Nginx", "Apache", "Lightspeed", "Azure"],
-        databases: ["mongo", "sqlite"]
+        databases: ["MongoDB", "sqlite", "MySQL"]
         },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Nodejs Developments],
     currentFocus: "Tritan Bot",
