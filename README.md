@@ -20,7 +20,7 @@ const developer[DylanJames] = {
         databases: ["MongoDB", "sqlite", "MySQL"]
         },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Nodejs Developments],
-    currentFocus: ["Tritan Bot", "Typescript"]
+    currentFocus: ["Tritan Bot", "Typescript"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
