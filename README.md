@@ -10,17 +10,17 @@ const developer[DylanJames] = {
     technologies: {
         discordBot: ["Tritan Bot"],
         frontEnd: {
-            js: ["Ejs", "Vue", "React"],
+            js: ["Ejs", "Vue", "Handlebars"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express", "Discord.js"]
+            js: ["NodeJS", "Express", "Discord.js"]
         },
-        devOps: ["Docker🐳", "Nginx", "Apache", "Lightspeed", "Azure"],
+        devOps: ["Docker🐳", "Nginx", "Apache", "Lightspeed", "Azure", "AWS"],
         databases: ["MongoDB", "sqlite", "MySQL"]
         },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Nodejs Developments],
-    currentFocus: "Tritan Bot",
+    currentFocus: ["Tritan Bot",, "Typescript"]
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
