@@ -25,7 +25,7 @@ const developer[DylanJames] = {
 };
 ```
 
-<p> I've moved most of my projects to <a href='https://git.tritan.gg/team-tritan'>Gitlab!</a>
+<p> I've moved most of my projects to <a href='https://gitlab.com/team-tritan'>Gitlab!</a>
 
 ![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tritanbot.xyz/)](https://tritanbot.xyz/)
