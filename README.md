@@ -1,5 +1,5 @@
 <h2>Heya!</h2>
-<p>I'm Dylan James, owner of <a href="https://gitlab.com/team-tritan">Team Tritan</a>, developer at <a href='https://github.com/botrixlist'>Botrix</a>, and <a href='https://windy.pink'>Windy Pink</a>.</p>
+<p>I'm Dylan James! Owner of <a href="https://gitlab.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://github.com/botrixlist'>Botrix</a>, and <a href='https://windy.pink'>Windy Pink</a>.</p>
 <p>Email: <a href='mailto:dylan@tritan.gg'>dylan@tritan.gg</a></p>
 
 ```javascript
