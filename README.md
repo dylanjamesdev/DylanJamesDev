@@ -12,22 +12,22 @@ const developer[DylanJames] = {
     technologies: {
         discordBot: ["Tritan Bot"],
         frontEnd: {
-            js: ["Ejs", "Vue", "Handlebars"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["Ejs", "Next", "Express"],
+            css: ["materialize", "tailwind", "reactstrap", "bootstrap"]
         },
         backEnd: {
-            js: ["NodeJS", "Express", "Discord.js"]
+            js: ["NodeJS", "Express", "Discord.js", "Fastify"]
         },
         devOps: ["Docker🐳", "Nginx", "Apache", "Lightspeed", "Azure", "AWS"],
         databases: ["MongoDB", "sqlite", "MySQL"]
         },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Nodejs Developments],
-    currentFocus: ["Tritan Bot", "Typescript"],
+    currentFocus: ["Tritan Bot", "Windy Pink"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-<p> Check out ny <a href='https://gitlab.com/team-tritan'>Gitlab!</a>
+<p> Check out my <a href='https://gitlab.com/team-tritan'>Gitlab!</a>
 
 ![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tritan.gg)](https://tritan.gg/)
