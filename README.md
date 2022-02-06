@@ -42,4 +42,3 @@ const developer[DylanJames] = {
 
 # Contact
 Feel free to contact me via email, dylanjames420@protonmail.com.
-![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
