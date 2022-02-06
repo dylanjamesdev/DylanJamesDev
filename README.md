@@ -36,6 +36,5 @@ const developer[DylanJames] = {
 ### A little more about me...  
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=dark&custom_title=Weekly+Stats)
     
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanJamesDev&show_icons=true&theme=dracula" alt="Dylan James" height="200"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanJamesDev&hide=lua&theme=dracula" alt="Toxic Dev's github stats"/>
-
+![Github 1](https://github-readme-stats.vercel.app/api?username=DylanJamesDev&show_icons=true&theme=dracula)
+![Github 2](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanJamesDev&hide=lua&theme=dracula)
