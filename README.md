@@ -35,7 +35,10 @@ const developer[DylanJames] = {
 ```
     
 
-### A little more about me...  
+### Stats  
 ![Github 1](https://github-readme-stats.vercel.app/api?username=DylanJamesDev&show_icons=true&theme=dark)
     
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=dark&custom_title=Weekly+Stats)
+
+## Contact
+Feel free to contact me via email, dylanjames420@protonmail.com.
