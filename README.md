@@ -32,9 +32,5 @@ const developer[DylanJames] = {
 ![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
 
 ### A little more about me...  
-![Github Stats](https://github-stats-three.vercel.app/api?theme=dark&count_private=true&username=dylanjamesdev&show_icons=true)
-
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=dark&custom_title=Weekly+Stats)
-
-![Top Langs](https://github-stats-three.vercel.app/api/top-langs/?username=dylanjamesdev&theme=dark)
 
