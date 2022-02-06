@@ -2,7 +2,10 @@
 <p>I'm Dylan James! Owner of <a href="https://gitlab.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://github.com/botrixlist'>Botrix</a>, and <a href='https://windy.pink'>Windy Pink</a>.</p>
 
 
+<h4>Links</h4?
 <p>Check out my <a href='https://dylanjames.gay'>portfolio! (https://dylanjames.gay)</a>
+<p> Check out my <a href='https://gitlab.com/team-tritan'>Gitlab!</a>
+
 
 ```javascript
 const developer[DylanJames] = {
@@ -26,9 +29,7 @@ const developer[DylanJames] = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-<p> Check out my <a href='https://gitlab.com/team-tritan'>Gitlab!</a>
-
+    
 ![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tritan.gg)](https://tritan.gg/)
 ![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
