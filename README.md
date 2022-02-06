@@ -11,7 +11,7 @@
 - [Check out my portfolio!](https://dylanjames.gay)
 - [Check out my Gitlab!](https://gitlab.com/team-tritan)
 - [Check out my Discord!](https://discord.gg/EufXV6NuHC)
-- [Check out my Wakatimeats!](https://wakatime.com/@dylanjamesdev/)
+- [Check out my Wakatime!](https://wakatime.com/@dylanjamesdev/)
 
 # About Me
 ```javascript
