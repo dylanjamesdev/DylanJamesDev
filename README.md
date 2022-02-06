@@ -1,12 +1,16 @@
-<h2>Heya!</h2>
+## Welcome
+![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tritan.gg)](https://tritan.gg/)
+![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
+
 <p>I'm Dylan James! Owner of <a href="https://gitlab.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://github.com/botrixlist'>Botrix</a>, and <a href='https://windy.pink'>Windy Pink</a>.</p>
 
 
-<h4>Links</h4>
-<p>Check out my <a href='https://dylanjames.gay'>portfolio! (https://dylanjames.gay)</a>
-<p> Check out my <a href='https://gitlab.com/team-tritan'>Gitlab!</a>
+## Links
+- [Check out my portfolio!](https://dylanjames.gay)
+- [Check out my gitlab!](https://gitlab.com/team-tritan)
 
-
+## About Me
 ```javascript
 const developer[DylanJames] = {
     pronouns: "He" | "Him",
@@ -30,9 +34,6 @@ const developer[DylanJames] = {
 };
 ```
     
-![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tritan.gg)](https://tritan.gg/)
-![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
 
 ### A little more about me...  
 ![Github 1](https://github-readme-stats.vercel.app/api?username=DylanJamesDev&show_icons=true&theme=dark)
