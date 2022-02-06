@@ -2,6 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/dylanjamesdev?label=Follow&style=social)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tritan.gg)](https://tritan.gg/)
 ![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
+![](https://dcbadge.vercel.app/api/shield/359498825150365699)
 
 <p>I'm Dylan James! Owner of <a href="https://gitlab.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://github.com/botrixlist'>Botrix</a>, and <a href='https://windy.pink'>Windy Pink</a>.</p>
 
