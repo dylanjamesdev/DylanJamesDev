@@ -10,6 +10,7 @@
 # Links
 - [Check out my portfolio!](https://dylanjames.gay)
 - [Check out my gitlab!](https://gitlab.com/team-tritan)
+- [Check out my Discord!](https://discord.gg/EufXV6NuHC)
 
 # About Me
 ```javascript
