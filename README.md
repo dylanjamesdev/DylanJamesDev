@@ -45,4 +45,4 @@ const developer[DylanJames] = {
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=dark&custom_title=Weekly+Stats)
 
 # Contact
-Feel free to contact me via email, dylanjames420@protonmail.com.
+Feel free to contact me via email, dylan.james@fbi.ac.
