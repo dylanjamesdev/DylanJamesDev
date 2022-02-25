@@ -42,7 +42,7 @@ const developer[DylanJames] = {
 # Stats  
 ![Github 1](https://github-readme-stats.vercel.app/api?username=DylanJamesDev&show_icons=true&theme=dark)
     
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=github_dark&custom_title=Stats)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylanjamesdev&theme=radical&custom_title=Stats)
 
 # Contact
 Feel free to contact me via email, dylan.james@fbi.ac.
