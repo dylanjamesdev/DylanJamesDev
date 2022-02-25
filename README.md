@@ -5,7 +5,7 @@
 ![](https://dcbadge.vercel.app/api/shield/359498825150365699?style=flat)
 [![wakatime](https://wakatime.com/badge/user/c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b.svg)](https://wakatime.com/@c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b)
 
-<p>I'm Dylan James! Owner of <a href="https://github.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://github.com/botrixlist'>Botrix</a>, and <a href='https://windy.pink'>Windy Pink</a>.</p>
+<p>I'm Dylan James! Owner of <a href="https://github.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://windy.pink'>Windy Pink</a>.</p>
 
 
 # Links
