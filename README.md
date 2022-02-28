@@ -13,6 +13,7 @@
 - [Check out my Gitlab!](https://gitlab.com/team-tritan)
 - [Check out my Discord!](https://discord.gg/EufXV6NuHC)
 - [Check out my Wakatime!](https://wakatime.com/@dylanjamesdev/)
+- [Check out my Stackshare!](https://stackshare.io/dylanjamesdev)
 
 # About Me
 ```javascript
