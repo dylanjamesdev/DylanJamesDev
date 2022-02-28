@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Sexflow
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -16,7 +16,6 @@ jobs:
           # The following scopes are required:
           #  - public_access (default scope)
           #  - repo
-          #  - public_repo
           # The following additional scopes may be required:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
@@ -71,9 +70,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_projects_repositories: team-tritan/tritan-bot-v6, team-tritan/windy-next, team-tritan/lewd-api
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_stars: yes
