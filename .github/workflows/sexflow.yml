@@ -60,6 +60,13 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_playlist: https://open.spotify.com/playlist/2ScWfoPJjsIfsw4LBE64t8?si=3f921b95a6734233
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: .user.login
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
