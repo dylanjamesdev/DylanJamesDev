@@ -25,7 +25,7 @@ const developer[DylanJames] = {
         devOps: ["Docker🐳", "Nginx", "Apache", "Lightspeed", "Azure", "AWS"],
         databases: ["MongoDB", "sqlite", "MySQL"]
         },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Nodejs Developments],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "NodeJS Developments"],
     currentFocus: ["Tritan Bot", "Windy Pink", "Omen Systems"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
