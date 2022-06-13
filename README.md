@@ -8,7 +8,6 @@
 <p>I'm Dylan James! Owner of <a href="https://github.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://windy.pink'>Windy Pink</a>, Serenity VPN, & OmenSystems Hosting. </p>
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dylanjamesdev" />
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=timeline&username=dylanjamesdev" />
 
 
 # About Me
