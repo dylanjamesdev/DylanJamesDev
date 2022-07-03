@@ -24,6 +24,7 @@ const developer[DylanJames] = {
         },
         backEnd: {
             js: ["NodeJS", "Express", "Discord.js", "Fastify"]
+            dart: ["Still learning!"]
         },
         devOps: ["Docker🐳", "Nginx", "Apache", "Lightspeed", "Azure", "AWS"],
         databases: ["MongoDB", "sqlite", "MySQL"]
