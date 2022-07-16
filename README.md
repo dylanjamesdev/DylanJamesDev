@@ -14,23 +14,23 @@
 ```javascript
 const developer[DylanJames] = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "Express", "MongoDB"],
-    askMeAbout: ["web dev", "tech", "bot dev", "memes"],
+    stuff: ["javascript", "dart", "html", "nodejs", "mongodb", "docker"],
+    askMeAbout: ["web dev", "tech", "bot dev", "memes", "dart"],
     technologies: {
-        discordBot: ["Tritan Bot"],
+        discordBot: ["tritan bot"],
         frontEnd: {
-            js: ["Ejs", "Next", "Express"],
+            js: ["ejs", "next", "express", "react", "+ anything"],
             css: ["materialize", "tailwind", "reactstrap", "bootstrap"]
         },
         backEnd: {
-            js: ["NodeJS", "Express", "Discord.js", "Fastify"]
+            js: ["nodejs", "express", "discord.js", "fastify", "next"]
             dart: ["Still learning!"]
         },
-        devOps: ["Docker🐳", "Nginx", "Apache", "Lightspeed", "Azure", "AWS"],
-        databases: ["MongoDB", "sqlite", "MySQL"]
+        devOps: ["docker🐳", "nginx", "apache", "lightspeed", "azure", "aws", "docker", "kvm"],
+        databases: ["mongodb", "sqlite", "postgres", "redis"]
         },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "NodeJS Developments"],
-    currentFocus: ["Tritan Bot", "Windy Pink", "Omen Systems"],
+    architecture: ["serverless architecture", "progressive web applications", "single page applications", "node developments"],
+    currentFocus: ["tritan Bot", "windy pink", "burnbook", "L generator", "aurora bot"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -46,4 +46,4 @@ const developer[DylanJames] = {
 - [Check out my Stackshare!](https://stackshare.io/dylanjamesdev)
 
 # Contact
-Feel free to contact me via email, dylan.james@fbi.ac.
+Feel free to contact me via email, webmaster@tritan.gg.
