@@ -4,12 +4,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dylanjamesdev)
 ![](https://dcbadge.vercel.app/api/shield/359498825150365699?style=flat)
 [![wakatime](https://wakatime.com/badge/user/c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b.svg)](https://wakatime.com/@c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=c36ygm5hg7d35z2e445a4ig7u)
-
 
 <p>I'm Dylan James! I've done alot, but as of now I'm the owner of <a href="https://github.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://windy.pink'>Windy Pink</a>. Project Manager at <a href='https://github.com/orgs/DefinityTeam'>Definity</a>.</p>
 
 <img height='250px' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dylanjamesdev" />
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=c36ygm5hg7d35z2e445a4ig7u&count=3)
 
 
 # About Me
