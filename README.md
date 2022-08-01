@@ -9,7 +9,7 @@
 
 <img height='250px' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dylanjamesdev" />
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=c36ygm5hg7d35z2e445a4ig7u&count=3)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=c36ygm5hg7d35z2e445a4ig7u&count=5)
 
 
 # About Me
