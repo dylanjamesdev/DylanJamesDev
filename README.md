@@ -8,7 +8,7 @@
 <p>I'm Dylan James! I've done alot, but as of now I'm the owner of <a href="https://github.com/team-tritan">Team Tritan</a> and <a href='https://github.com/dylanjamesdev/tritan-bot'>Tritan Bot</a>. Developer at <a href='https://windy.pink'>Windy Pink</a>. Project Manager at <a href='https://github.com/orgs/DefinityTeam'>Definity</a>.</p>
 
 # About Me
-<img height='250px' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dylanjamesdev"> 
+<!--<img height='250px' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dylanjamesdev"> -->
 <img style='text-align: center;' src='https://spotify-recently-played-readme.vercel.app/api?user=c36ygm5hg7d35z2e445a4ig7u&count=4' />
 </img>
 
