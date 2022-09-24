@@ -24,8 +24,8 @@ const developer[DylanJames] = {
             css: ["materialize", "tailwind", "reactstrap", "bootstrap"]
         },
         backEnd: {
-            js: ["nodejs", "express", "discord.js", "fastify", "next"]
-            dart: ["Still learning!"]
+            js: ["nodejs", "express", "discord.js", "fastify", "next"],
+            dart: ["Still learning!"],
         },
         devOps: ["docker🐳", "nginx", "apache", "lightspeed", "azure", "aws", "docker", "kvm"],
         databases: ["mongodb", "sqlite", "postgres", "redis"]
