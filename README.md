@@ -15,7 +15,7 @@
 ```javascript
 const developer[DylanJames] = {
     pronouns: "He" | "Him",
-    stuff: ["javascript", "dart", "html", "nodejs", "mongodb", "docker"],
+    stuff: ["typescript", "dart", "html", "nodejs", "mongodb", "docker"],
     askMeAbout: ["web dev", "tech", "bot dev", "memes", "backend", "bgp"],
     technologies: {
         discordBot: ["tritan bot"],
