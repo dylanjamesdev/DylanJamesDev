@@ -16,7 +16,7 @@
 const developer[DylanJames] = {
     pronouns: "He" | "Him",
     stuff: ["javascript", "dart", "html", "nodejs", "mongodb", "docker"],
-    askMeAbout: ["web dev", "tech", "bot dev", "memes", "dart"],
+    askMeAbout: ["web dev", "tech", "bot dev", "memes", "backend", "bgp"],
     technologies: {
         discordBot: ["tritan bot"],
         frontEnd: {
@@ -26,13 +26,13 @@ const developer[DylanJames] = {
         backEnd: {
             js: ["anything"],
             dart: ["anything"],
-            go: ["fiber"]
+            go: ["fiber"],
         },
         devOps: ["docker🐳", "nginx", "apache", "lightspeed", "azure", "aws", "docker", "kvm"],
         databases: ["mongodb", "sqlite", "postgres", "redis"]
         },
     architecture: ["serverless architecture", "progressive web applications", "single page applications", "node developments"],
-    currentFocus: ["ur mom lol"],
+    currentFocus: ["ur mom lol", "building out our ASN"],
     funFact: "I actually do not exist"
 };
 ```
