@@ -701,7 +701,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twentyhq/twenty</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Building a modern alternative to Salesforce, powered by the community.</div>
@@ -754,7 +754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NLnetLabs/routinator</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An RPKI Validator and RTR server written in Rust</div>
@@ -1246,7 +1246,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2024, 10:16:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 May 2024, 11:18:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
