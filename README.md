@@ -38,8 +38,8 @@ const developer[DylanJames] = {
 ```
 
 # Links
-- [Check out my Discord!](https://tritan.gg/discord)
-- [Check out my Wakatime!](https://wakatime.com/@dylanjamesdev)
+- [Peep the discord](https://tritan.gg/discord)
+- [Code stats](https://wakatime.com/@dylanjamesdev)
 - [Need hosting, ip transit, ips, or colos?](https://tritan.gg)
 
 # Contact
