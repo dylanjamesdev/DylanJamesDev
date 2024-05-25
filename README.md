@@ -5,7 +5,7 @@
 ![](https://dcbadge.vercel.app/api/shield/359498825150365699?style=flat)
 [![wakatime](https://wakatime.com/badge/user/c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b.svg)](https://wakatime.com/@c7ac5a05-9cb1-4292-ba4a-fb00cff5ce8b)
 
-<p>I'm Dylan!, the owner of <a href="https://github.com/team-tritan">Tritan Internet</a>.</p>
+<p>Hiya, I'm Dylan! The owner of <a href="https://github.com/team-tritan">Tritan Internet</a> and <a href='https://tritan.gg/network'>AS393577</a>.</p>
 
 # About Me
 <!--<img height='250px' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dylanjamesdev"> -->
@@ -40,6 +40,7 @@ const developer[DylanJames] = {
 # Links
 - [Check out my Discord!](https://tritan.gg/discord)
 - [Check out my Wakatime!](https://wakatime.com/@dylanjamesdev)
+- [Need hosting, ip transit, ips, or colos?](https://tritan.gg)
 
 # Contact
 Feel free to contact me via email, dylan@tritan.gg.
